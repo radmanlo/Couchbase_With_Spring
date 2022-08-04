@@ -25,4 +25,7 @@ public class User {
 	private int age;
 	@Field
 	private String name, address;
+	@Field
+	private boolean vip;
+	
 }
